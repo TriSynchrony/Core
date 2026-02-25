@@ -29,4 +29,4 @@ Below is the initial concept wiring focusing on the electrotactile driver and I2
 * [ ] Publish Web UI configuration tool
 
 ---
-⚠️ **Hardware Safety Disclaimer:** TriSynchrony is an open-source DIY hardware project. Building circuits that output electrical current (electrotactile feedback) involves inherent safety risks. The creators provide these schematics and code "AS-IS" for educational, maker, and experimental use only. Anyone assembling, modifying, or using this hardware assumes full responsibility for their own electrical isolation, testing, and personal safety.
+⚠️ **Hardware Safety Disclaimer:** TriSynchrony is an open-source DIY hardware project. Building circuits that output electrical current (electrotactile feedback) involves inherent safety risks. Do not use electrotactile devices near the chest, across the head, or if you have a pacemaker or heart condition. The creators provide these schematics and code "AS-IS" for educational, maker, and experimental use only. Anyone assembling, modifying, or using this hardware assumes full responsibility for their own electrical isolation, testing, and personal safety.
